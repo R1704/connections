@@ -1,0 +1,63 @@
+{
+    "props": {
+        "pageProps": {
+            "id": "281",
+            "answers": [
+                {
+                    "description": "SEGMENT OF A PROCESS",
+                    "words": [
+                        "CYCLE",
+                        "PHASE",
+                        "ROUND",
+                        "STAGE"
+                    ],
+                    "emoji": "🟨",
+                    "color": "#fbd400"
+                },
+                {
+                    "description": "CONSTELLATIONS",
+                    "words": [
+                        "CYGNUS",
+                        "GEMINI",
+                        "ORION",
+                        "PEGASUS"
+                    ],
+                    "emoji": "🟩",
+                    "color": "#69e352"
+                },
+                {
+                    "description": "SPIRALS IN NATURE",
+                    "words": [
+                        "CYCLONE",
+                        "GALAXY",
+                        "SNAIL",
+                        "SUNFLOWER"
+                    ],
+                    "emoji": "🟦",
+                    "color": "#5492ff"
+                },
+                {
+                    "description": "ASSOCIATED WITH “ONE”",
+                    "words": [
+                        "CYCLOPS",
+                        "MONOLOGUE",
+                        "SOLITAIRE",
+                        "UNICYCLE"
+                    ],
+                    "emoji": "🟪",
+                    "color": "#df7bea"
+                }
+            ],
+            "isNYT": true
+        },
+        "__N_SSG": true
+    },
+    "page": "/nyt/[key]",
+    "query": {
+        "key": "281"
+    },
+    "buildId": "Pw-mbd68u6v06mbZh_E3m",
+    "isFallback": false,
+    "gsp": true,
+    "scriptLoader": []
+}

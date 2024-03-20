@@ -1,0 +1,63 @@
+{
+    "props": {
+        "pageProps": {
+            "id": "1",
+            "answers": [
+                {
+                    "description": "WET WEATHER",
+                    "words": [
+                        "HAIL",
+                        "RAIN",
+                        "SLEET",
+                        "SNOW"
+                    ],
+                    "emoji": "🟨",
+                    "color": "#fbd400"
+                },
+                {
+                    "description": "NBA TEAMS",
+                    "words": [
+                        "BUCKS",
+                        "HEAT",
+                        "JAZZ",
+                        "NETS"
+                    ],
+                    "emoji": "🟩",
+                    "color": "#69e352"
+                },
+                {
+                    "description": "KEYBOARD KEYS",
+                    "words": [
+                        "OPTION",
+                        "RETURN",
+                        "SHIFT",
+                        "TAB"
+                    ],
+                    "emoji": "🟦",
+                    "color": "#5492ff"
+                },
+                {
+                    "description": "PALINDROMES",
+                    "words": [
+                        "KAYAK",
+                        "LEVEL",
+                        "MOM",
+                        "RACE CAR"
+                    ],
+                    "emoji": "🟪",
+                    "color": "#df7bea"
+                }
+            ],
+            "isNYT": true
+        },
+        "__N_SSG": true
+    },
+    "page": "/nyt/[key]",
+    "query": {
+        "key": "1"
+    },
+    "buildId": "Pw-mbd68u6v06mbZh_E3m",
+    "isFallback": false,
+    "gsp": true,
+    "scriptLoader": []
+}
